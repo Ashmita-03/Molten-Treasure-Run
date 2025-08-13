@@ -1,0 +1,8 @@
+res://main.tscn
+res://player.gd
+res://scripts/event_controller.gd
+res://scripts/game_controller.gd
+res://collectibles/scenes/coin.tscn
+res://collectibles/coin.gd
+res://collectibles/scenes/coin_ui.tscn
+res://collectibles/scripts/coin_ui.gd

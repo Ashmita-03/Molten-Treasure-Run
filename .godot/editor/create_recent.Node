@@ -1,0 +1,12 @@
+TextureRect
+Label
+Control
+CanvasLayer
+CollisionShape2D
+Area2D
+AnimatedSprite2D
+Camera2D
+TileMapLayer
+Sprite2D
+CharacterBody2D
+Node

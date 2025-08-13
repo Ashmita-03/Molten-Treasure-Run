@@ -1,0 +1,26 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1755118177
+export_presets.cfg::TextFile::-1::1755118177::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::4303721181162949827::1755025281::1755025296::1::::<><><>0<>0<>34782d0df2a8c2e1bf35c71deeabc242<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.tscn::PackedScene::1034487626794642505::1755117687::0::1::::<><><>0<>0<><>::uid://dhq8w32n8gwuc::::res://assets/Screenshot 2025-08-12 231738.png<>uid://bjchptmnnm1s6::::res://player.gd<>uid://brxj42jreur5w::::res://assets/sprite.png<>uid://b0ta8mhiahi4f::::res://Screenshot 2025-08-12 152232.png<>uid://x2h7bi10olkf::::res://collectibles/scenes/coin_ui.tscn<>uid://catltk0p5t6yo::::res://collectibles/scenes/coin.tscn
+player.gd::GDScript::3022701854891291707::1755056429::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+Screenshot 2025-08-12 152232.png::CompressedTexture2D/CompressedTexture2D::4180424524627509367::1755026608::1755026609::1::::<><><>0<>0<>c828634a4351c0126cd760edf087bc62<>res://.godot/imported/Screenshot 2025-08-12 152232.png-6b29664e4924b9dd28d1f80bdeee5320.ctex::
+::res://assets/::1755055119
+bg.jpg::CompressedTexture2D::881969062052252289::1755054573::1755054574::1::::<><><>0<>0<>8023daabfa0e5c63b1a049518cfee638<>res://.godot/imported/bg.jpg-fd17eeede633c0b14296fbdda0ab8221.ctex::
+coin.png::CompressedTexture2D/CompressedTexture2D::4845278462614235208::1755044053::1755044053::1::::<><><>0<>0<>c091ff98222eed9eb236c9a02e011a16<>res://.godot/imported/coin.png-f04b9cd408b88aba3ab0966b4da32df0.ctex::
+Screenshot 2025-08-12 231738.png::CompressedTexture2D::7685658461836232098::1755055118::1755055119::1::::<><><>0<>0<>9d106e54b9c4d5c7f6c7e1eea18a600e<>res://.godot/imported/Screenshot 2025-08-12 231738.png-2ed65c86d5d42d6d2397de47cae909da.ctex::
+sprite.png::CompressedTexture2D::3627711387653414550::1755054171::1755054198::1::::<><><>0<>0<>8fa09cd751c7d265369b0edfb813d2eb<>res://.godot/imported/sprite.png-326bf2a42cf01374c1682f27990021a3.ctex::
+::res://collectibles/::1755046620
+coin.gd::GDScript/GDScript::728594624504229547::1755046620::0::1::::<>Node2D<><>0<>0<><>::
+::res://collectibles/scenes/::1755117688
+coin.tscn::PackedScene::4812766926293978706::1755117687::0::1::::<><><>0<>0<><>::uid://cbbda72i24lu3::::res://assets/coin.png<>uid://km632fe0l3el::::res://collectibles/coin.gd
+coin_ui.tscn::PackedScene::1670563833485758917::1755117688::0::1::::<><><>0<>0<><>::uid://cbbda72i24lu3::::res://assets/coin.png<>uid://bf63nkofsc01c::::res://collectibles/scripts/coin_ui.gd
+::res://collectibles/scripts/::1755049224
+coin_ui.gd::GDScript/GDScript::2803084450489443498::1755049224::0::1::::<>Control<><>0<>0<><>::
+::res://exports/::1755118210
+index.apple-touch-icon.png::CompressedTexture2D::6191100446418559212::1755118177::1755118226::1::::<><><>0<>0<>9b1dab54e0925114f88de6a47fa3fc41<>res://.godot/imported/index.apple-touch-icon.png-65973ddaad96ecdaf3c752a8d5b693c7.ctex::
+index.icon.png::CompressedTexture2D::6172157160138612527::1755118177::1755118226::1::::<><><>0<>0<>fff7b46d1b40d9882ddfd43b659a1d26<>res://.godot/imported/index.icon.png-c4a9e96706e70b250c0b0144b6b11313.ctex::
+index.png::CompressedTexture2D::4957374045166875715::1755118177::1755118226::1::::<><><>0<>0<>62a6664f0a3a891534e9c9a90c4ce2ae<>res://.godot/imported/index.png-b259ab16718bc210c505332965363aff.ctex::
+::res://scripts/::1755050101
+event_controller.gd::GDScript/GDScript::117586701990321866::1755050101::0::1::::<>Node<><>0<>0<><>::
+game_controller.gd::GDScript/GDScript::2599269167649490902::1755045188::0::1::::<>Node<><>0<>0<><>::
